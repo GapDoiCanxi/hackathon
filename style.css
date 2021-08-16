@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(80, 76, 143);
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+.body_background {
+    background-image: url(images/lizard-funny-chameleon-african-chameleon-wallpaper-preview.jpg);
+    background-position: center;
+    background-size: cover;
+}
